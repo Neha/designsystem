@@ -10,7 +10,7 @@ I was sharing my experience on social media about it.Many people showed their in
 ## Agenda
 - What is Design System?
 - Why you need a Design System?
-- How to Start?
+- [How to Start?](https://github.com/Neha/designsystem/blob/master/step0.md)
 - Designer guide for design system
 - Develoepr guide for design system
 - Post Design system release
@@ -36,4 +36,4 @@ __For Designers: "Do not start with the design."__
 
 Most important task is to understand clearly about the scope of the design system, problems you are trying to solve by Design System, requirements of the organiztion/product/projects. 
 
-[Step 0 for the Design System]()
+[Step 0 for the Design System](https://github.com/Neha/designsystem/blob/master/step0.md)
