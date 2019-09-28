@@ -11,7 +11,7 @@ I was sharing my experience on social media about it.Many people showed their in
 - What is Design System?
 - Why you need a Design System?
 - [How to Start?](https://github.com/Neha/designsystem/blob/master/step0.md)
-- Designer guide for design system
+- [Designer guide for design system](https://github.com/Neha/designsystem/blob/master/designer-guide.md)
 - Develoepr guide for design system
 - Post Design system release
 - Best Practises of Design system
