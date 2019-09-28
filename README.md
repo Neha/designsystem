@@ -36,7 +36,7 @@ __For Designers: "Do not start with the design."__
 
 Most important task is to understand clearly about the scope of the design system, problems you are trying to solve by Design System, requirements of the organiztion/product/projects. 
 
-[Step 0 for the Design System](https://github.com/Neha/designsystem/blob/master/step0.md)
+[Step 0](https://github.com/Neha/designsystem/blob/master/step0.md)
 
 ## Resources
 
