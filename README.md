@@ -15,7 +15,7 @@ I was sharing my experience on social media about it.Many people showed their in
 - [Develoepr guide for design system - WIP](https://github.com/Neha/designsystem/blob/master/developer-guide.md)
 - Post Design system release
 - Best Practises of Design system
-- Resources
+- [Resources](#resources)
 
 ## What is Design System?
 A single source of the truth for the designers, developers, and the products.
@@ -41,5 +41,7 @@ Most important task is to understand clearly about the scope of the design syste
 ## Resources
 
 [tinyconf, Bangalore 2019 : Design design System for Reusability](https://docs.google.com/presentation/d/151uQOcM56bRWTOkA40z4Nc3LfmUBGxTZGZr_kEduY08/edit?usp=sharing)
+
 [React Boston 2019 : Your guide for scalable in Design System](https://docs.google.com/presentation/d/1FGy2l2nsexlCT_5pesEvTVVfvrxUqlh1T0BZ4eMPuWE/edit?usp=sharing)
+
 [Google DevFest, New Delhi 2019 :  Design your Design System](https://docs.google.com/presentation/d/1siFC2g83spJaf7yTcya5m3BfrPQXHhmxwUN3qCKn5K8/edit?usp=sharing)
