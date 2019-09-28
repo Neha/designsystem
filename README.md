@@ -1,4 +1,4 @@
-# Design System 101
+# Design System Guide
 Are you planning to develop a Design System or just curious to know what Design System is? 
 If yes, then here is a detail guide for you. No matter who you are - a designer, developer, 
 product owner, UX Writer, tester etc. this guide have something for everyone.
@@ -12,7 +12,7 @@ I was sharing my experience on social media about it.Many people showed their in
 - Why you need a Design System?
 - [How to Start?](https://github.com/Neha/designsystem/blob/master/step0.md)
 - [Designer guide for design system](https://github.com/Neha/designsystem/blob/master/designer-guide.md)
-- Develoepr guide for design system
+- [Develoepr guide for design system - WIP](https://github.com/Neha/designsystem/blob/master/developer-guide.md)
 - Post Design system release
 - Best Practises of Design system
 - Resources
@@ -37,3 +37,9 @@ __For Designers: "Do not start with the design."__
 Most important task is to understand clearly about the scope of the design system, problems you are trying to solve by Design System, requirements of the organiztion/product/projects. 
 
 [Step 0 for the Design System](https://github.com/Neha/designsystem/blob/master/step0.md)
+
+## Resources
+
+[tinyconf, Bangalore 2019 : Design design System for Reusability](https://docs.google.com/presentation/d/151uQOcM56bRWTOkA40z4Nc3LfmUBGxTZGZr_kEduY08/edit?usp=sharing)
+[React Boston 2019 : Your guide for scalable in Design System](https://docs.google.com/presentation/d/1FGy2l2nsexlCT_5pesEvTVVfvrxUqlh1T0BZ4eMPuWE/edit?usp=sharing)
+[Google DevFest, New Delhi 2019 :  Design your Design System](https://docs.google.com/presentation/d/1siFC2g83spJaf7yTcya5m3BfrPQXHhmxwUN3qCKn5K8/edit?usp=sharing)
