@@ -9,11 +9,11 @@ I was sharing my experience on social media.Many people showed their interest on
 
 ## :bulb: Agenda
 - What is Design System?
-- Why do you need a Design System?
+- Why you need a Design System?
 - [How to Start?](https://github.com/Neha/designsystem/blob/master/step0.md)
 - [Designer guide for design system](https://github.com/Neha/designsystem/blob/master/designer-guide.md)
-- [Develoepr guide for design system - WIP](https://github.com/Neha/designsystem/blob/master/developer-guide.md)
-- Post Design system
+- [Developer guide for design system - WIP](https://github.com/Neha/designsystem/blob/master/developer-guide.md)
+- Post Design system guide
 - Best Practises of Design system
 - [Resources](#resources)
 
